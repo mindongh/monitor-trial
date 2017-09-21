@@ -51,7 +51,7 @@
 			<properties>
 				<profile.activeprofiles>develop</profile.activeprofiles>
 				<activeprofiles>develop</activeprofiles>
-				<lib.jni.sigar>D:/Work/Java/framework/hyperic-sigar-1.6.4/sigar-bin/lib</lib.jni.sigar>
+				<lib.jni.sigar>C:\workspace\lib\sigar</lib.jni.sigar>
 			</properties>
 			<activation>
 				<activeByDefault>false</activeByDefault>

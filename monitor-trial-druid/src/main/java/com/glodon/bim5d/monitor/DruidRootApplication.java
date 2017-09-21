@@ -12,7 +12,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  *
  */
 @SpringBootApplication
-@EnableEurekaClient //启用服务注册
+//@EnableEurekaClient //启用服务注册
 public class DruidRootApplication {
    
    /**

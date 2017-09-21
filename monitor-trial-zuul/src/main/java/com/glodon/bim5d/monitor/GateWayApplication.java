@@ -10,7 +10,7 @@ import com.glodon.bim5d.monitor.gw.MonitorLogFilter;
 
 @EnableZuulProxy
 @SpringBootApplication
-@EnableEurekaClient //启用服务注册
+//@EnableEurekaClient //启用服务注册
 public class GateWayApplication {
    @Bean
    public MonitorLogFilter monitorLogFilter() { 
